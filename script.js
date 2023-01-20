@@ -1,7 +1,3 @@
-// var btn1 = document.querySelector("click").addEventListener;
-// var btn2 = document.querySelector("click").addEventListener;
-// var btn3 = document.querySelector("click").addEventListener;
-
 var divContainer = document.querySelector(".container");
 
 
